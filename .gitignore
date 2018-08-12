@@ -1,0 +1,4 @@
+**/target/**
+**/mavenRepo/**
+**/.m2/**
+**/.idea/**
