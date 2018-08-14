@@ -1,6 +1,9 @@
 package com.adminapp.base;
 
 import android.arch.lifecycle.ViewModel;
+import android.databinding.ObservableBoolean;
+
+import com.adminapp.utils.PrefManager;
 
 
 public abstract class BaseViewModel<N> extends ViewModel {
